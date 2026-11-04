@@ -1,5 +1,7 @@
 # Articulo_regresion
 
-El artículo de investigación en el cual trabajaré, el objetivo es evaluar diferentes estrategias de estimación de parámetros para un modelo de regresión lineal múltiple. Para la estimación de los parámetros del modelo, se utilizaron datos de un ensayo clínico en el que se buscaba determinar si el ensayo mecánico de la propiedad de fuerza máxima (EM-FM) está asociado con la masa femoral, el diámetro femoral y el grupo experimental de ratas ovariectomizadas de la especie *Rattus norvegicus albinus*, variedad Wistar.
+El objetivo de este estudio fue comparar la postura del pie y las medidas de la composición corporal entre niños con y sin TDC. Además, este estudio tuvo como objetivo investigar la relación entre la postura del pie y el porcentaje de grasa.
 
-Link para visitar la revista: "https://revistas.unal.edu.co/index.php/estad/article/view/29605/29844"
+La postura del pie, que constituye la estructura de apoyo distal, influye en la estabilidad postural. Los niños con trastorno del desarrollo de la coordinación (TDC), quienes tienen mayor probabilidad de presentar sobrepeso u obesidad, pueden presentar pie plano con síntomas que afectan sus actividades cotidianas. 
+
+Link para visitar la revista: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265280"
