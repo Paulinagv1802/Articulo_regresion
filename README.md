@@ -1,4 +1,4 @@
-# Articulo_regresion
+# Articulo de Regresion
 
 El objetivo de este estudio fue comparar la postura del pie y las medidas de la composición corporal entre niños con y sin TDC. Además, este estudio tuvo como objetivo investigar la relación entre la postura del pie y el porcentaje de grasa.
 
